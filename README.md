@@ -1,7 +1,7 @@
 # Hi there, I'm JetLuna! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff0000,8b0000&height=200&section=header&text=Lead%20Developer%20@%20Last%20SMP&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=000000,8b0000,ff4500&height=200&section=header&text=Lead%20Developer%20@%20Last%20SMP&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 ### 👨‍💻 About Me
