@@ -1,7 +1,7 @@
 # Hi there, I'm JetLuna! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=45&pause=1000&color=FF4500&center=true&vCenter=true&width=800&height=120&lines=Lead+Developer+%40+Last+SMP;Powered+by+Kotlin" alt="Lead Developer Header" />
+  <img src="https://github.com/JetLuna/JetLuna/raw/main/red-header.png" alt="Lead Developer @ Last SMP" />
 </div>
 
 ### 👨‍💻 About Me
