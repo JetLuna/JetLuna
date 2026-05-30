@@ -1,7 +1,7 @@
 # Hi there, I'm JetLuna! 👋
 
 <div align="center">
-  <img src="https://github.com/JetLuna/JetLuna/raw/main/red-header.png" alt="Lead Developer @ Last SMP" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B30000&height=200&section=header&text=Lead%20Developer%20@%20Last%20SMP&fontSize=40&animation=fadeIn&fontColor=ffffff" alt="Lead Developer @ Last SMP" />
 </div>
 
 ### 👨‍💻 About Me
@@ -27,6 +27,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jetluna&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4500&line=FF4500&point=FFFFFF" alt="Activity Graph" />
 </div>
 
-### 📫 Let's Connect!
+### 📫Connect
 
 - **Discord:** `@jetluna`
