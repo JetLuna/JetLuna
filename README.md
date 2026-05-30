@@ -1,7 +1,7 @@
 # Hi there, I'm JetLuna! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=EE0000,990000&height=200&section=header&text=Lead%20Developer%20@%20Last%20SMP&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff0000,8b0000&height=200&section=header&text=Lead%20Developer%20@%20Last%20SMP&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 ### 👨‍💻 About Me
@@ -22,10 +22,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JetLuna&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="JetLuna's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jetluna&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JetLuna&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetluna&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ### 📫 Let's Connect!
+
 - **Discord:** `@jetluna`
