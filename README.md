@@ -1,7 +1,7 @@
 # Hi there, I'm JetLuna! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=000000,8b0000,ff4500&height=200&section=header&text=Lead%20Developer%20@%20Last%20SMP&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=45&pause=1000&color=FF4500&center=true&vCenter=true&width=800&height=120&lines=Lead+Developer+%40+Last+SMP;Powered+by+Kotlin" alt="Lead Developer Header" />
 </div>
 
 ### 👨‍💻 About Me
@@ -22,9 +22,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jetluna&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetluna&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=jetluna&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jetluna&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF4500&line=FF4500&point=FFFFFF" alt="Activity Graph" />
 </div>
 
 ### 📫 Let's Connect!
